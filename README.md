@@ -1,4 +1,9 @@
 # Kronig–Penney Band Structure Simulation
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![NumPy](https://img.shields.io/badge/NumPy-used-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-green)
+![Project](https://img.shields.io/badge/Type-Scientific%20Simulation-purple)
+
 
 This project implements a numerical simulation of the **1D Kronig–Penney model** to study how a periodic potential modifies free-electron motion and leads to band formation in crystalline solids.
 
